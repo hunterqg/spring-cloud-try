@@ -1,4 +1,5 @@
 rootProject.name = 'spring-cloud'
 include 'spring-cloud-register-server'
 include 'spring-cloud-config-server'
+include 'spring-cloud-ribbon'
 
